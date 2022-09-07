@@ -1,0 +1,7 @@
+{
+  "restartable": "rs",
+	"watch": ["src"],
+	"ext": "ts,json",
+  "ignore": ["**/*.test.ts", "**/*.spec.ts", ".git", "node_modules"],
+	"exec": "nodemon -I --exec node --experimental-specifier-resolution=node  --loader ts-node/esm ./src/main.ts"
+}
