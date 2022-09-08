@@ -1,10 +1,24 @@
-<p align="center"><h1 align="center">Layer архитектура </h1></p>
+<p align="center"><h1 align="center">1. Layer архитектура </h1></p>
 <br>
 
 <img src="./assets/layer.jpg">
 
 <br>
 <br>
+
+<p align="center"><h1 align="center">2. Layer архитектура </h1></p>
+<br>
+
+<img src="./assets/Dependency Injection.jpg">
+
+<br>
+<br>
+
+<p align="center"><h1 align="center">3. Простейший DI </h1></p>
+<br>
+
+<img src="./assets/simple-di.jpg">
+
 
 <p align="center">
   <a href="https://hits.sh/github.com/xattabuz/">
