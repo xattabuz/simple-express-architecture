@@ -23,4 +23,8 @@ export class LoggerService implements ILogger {
 	warn(...args: unknown[]) {
 		this.logger.warn(...args)
 	}
+	
+	silly(...args: unknown[]) {
+		this.logger.silly(...args)
+	};
 }
